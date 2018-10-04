@@ -1,0 +1,13 @@
+*.DS_Store
+*.pyc
+.git
+.idea
+
+project/static/vendor
+project/static/scripts/js
+.env
+venv
+
+node_modules/
+npm-debug.log
+.module-cache
